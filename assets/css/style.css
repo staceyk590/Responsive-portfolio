@@ -39,7 +39,11 @@ body {
     display: inline-block;
     margin: 10px;
     background-color: #dddddd;
-    
+  }
+
+  .picture img {
+    width:100%
+  
   }
   
   .image-description{
